@@ -23,6 +23,5 @@ const dv = new DataView(await blob.arrayBuffer());
 console.log(dv) // DataView
 console.log(dv.getUint8(1))
 dv.setUint8(1, 0x01);
-
 ```
 
