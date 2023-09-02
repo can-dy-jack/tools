@@ -1,0 +1,23 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "Collection of commonly used JS tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/can-dy-jack/tools.git"
+  },
+  "keywords": [
+    "js",
+    "tools"
+  ],
+  "author": "kart jim",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/can-dy-jack/tools/issues"
+  },
+  "homepage": "https://github.com/can-dy-jack/tools#readme"
+}
